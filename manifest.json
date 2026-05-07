@@ -1,0 +1,20 @@
+{
+  "name": "Fremont",
+  "short_name": "Fremont",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0A2540",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Professional geotechnical services in Fremont, USA. Soil studies, testing and technical consulting.",
+  "id": "/fremont-8001"
+}
